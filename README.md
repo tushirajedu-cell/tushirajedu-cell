@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Tushiraj Sah]
+# 👋 Hi, I'm Tushiraj Sah
 
 Welcome to my GitHub profile! 🚀  
 I am a passionate student exploring technology and building projects to improve my skills.
