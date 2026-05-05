@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀  
 I am a passionate student exploring technology and building projects to improve my skills.
-![Alt text](<img width="279" height="181" alt="image" src="https://github.com/user-attachments/assets/9df0979b-3323-435f-81c3-08cd2a5e0194" />
+(<img width="279" height="181" alt="image" src="https://github.com/user-attachments/assets/9df0979b-3323-435f-81c3-08cd2a5e0194" />
 )
 
 ---
